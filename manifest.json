@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Copy Text Fragment Link",
+  "version": "1.0",
+  "description": "Copy a text fragment link for the selected text via the context menu.",
+  "permissions": [
+    "menus"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
+
