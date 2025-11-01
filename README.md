@@ -1,6 +1,6 @@
 # Text Fragment Copier
 
-Firefox extension that adds a context-menu entry for selected text and copies a [scroll-to-text fragment link](https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments) to the clipboard.
+Firefox Manifest V3 extension that adds a context-menu entry for selected text and copies a [scroll-to-text fragment link](https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments) to the clipboard.
 
 ## Install (Temporary)
 
