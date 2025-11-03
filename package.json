@@ -1,0 +1,10 @@
+{
+  "name": "text-fragment-extension",
+  "version": "1.0.0",
+  "description": "Firefox Manifest V3 extension that adds a context-menu entry for selected text and copies a scroll-to-text fragment link to the clipboard.",
+  "packageManager": "pnpm@10.20.0",
+  "devDependencies": {
+    "@types/firefox-webext-browser": "^143.0.0",
+    "typescript": "^5.9.3"
+  }
+}
