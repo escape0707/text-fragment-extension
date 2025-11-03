@@ -3,8 +3,11 @@ const menuItemId = "copy-text-fragment-link";
 browser.runtime.onInstalled.addListener(() => {
     browser.menus.create({
         id: menuItemId,
-        title: "Copy Text Fragment Link",
-        contexts: ["selection"]
+        title: "Copy text fragment link",
+        contexts: ["selection"],
+        icons: {
+            16: "icon.svg",
+        }   
     });
 });
 

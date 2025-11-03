@@ -8,5 +8,9 @@
     "scripts": ["background.js"],
     "service_worker": "background.js",
     "type": "module"
+  },
+  "icons": {
+    "32": "icon.svg",
+    "64": "icon.svg"
   }
 }
